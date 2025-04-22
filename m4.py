@@ -30,3 +30,12 @@ for i in range(0, len(a)):
 
 print("\nThe Maximally Specific Hypothesis for a given Training Examples:\n")
 print(hypothesis)
+
+
+''' 
+training_data.csv
+Sunny,Warm,Normal,Strong,Warm,Same,Yes
+Sunny,Warm,High,Strong,Warm,Same,Yes
+Rainy,Cold,High,Strong,Warm,Change,No
+Sunny,Warm,High,Strong,Cool,Change,Yes
+'''

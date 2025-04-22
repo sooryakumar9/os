@@ -24,8 +24,9 @@ for i, row in enumerate(data):
 print("\nThe Maximally Specific Hypothesis for the given Training Examples:\n")
 print(hypothesis)
 
-#training_data.csv
+/*training_data.csv
 Sunny,Warm,Normal,Strong,Warm,Same,Yes
 Sunny,Warm,High,Strong,Warm,Same,Yes
 Rainy,Cold,High,Strong,Warm,Change,No
 Sunny,Warm,High,Strong,Cool,Change,Yes
+*/

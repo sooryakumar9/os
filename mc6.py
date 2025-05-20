@@ -23,5 +23,6 @@ plt.scatter(x_train, y_train, color='black', alpha=0.5, label='Training Data')
 
 plt.xlabel('X')
 plt.ylabel('Y')
+plt.title('Locally Weighted Regression (LWR) with Different Tau values')
 plt.legend()
 plt.show()
